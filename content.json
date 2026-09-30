@@ -1,0 +1,27 @@
+{
+ "profile": {
+  "name": "JOHN DAVID JAVIER",
+  "role": "Student · Aspiring Developer",
+  "bio": "I am a Computer Science student who wants to improve my knowledge and skills in programming and technology. I am passionate about learning new things, exploring different technologies, and developing useful projects. I enjoy solving problems, gaining new experiences, and challenging myself to become better. My goal is to continue learning and become a skilled and successful IT professional. write about yourself: who you are, what you study, and what you enjoy building or learning.",
+  "f1": "Course / Year",
+  "f2": "BSCS 3BCavite State University Silang Campus",
+  "f3": "ohndavid.javier@cvsu.edu.ph",
+  "pic": "uploads/profile-photo.jpg"
+ },
+ "files": [
+  {
+   "cat": "quiz",
+   "name": "profile-photo.jpg",
+   "type": "image/jpeg",
+   "size": 47628,
+   "path": "uploads/1790726100457277-profile-photo.jpg"
+  },
+  {
+   "cat": "project",
+   "name": "index.html",
+   "type": "text/html",
+   "size": 2798,
+   "path": "uploads/1790726212404016-index.html"
+  }
+ ]
+}
